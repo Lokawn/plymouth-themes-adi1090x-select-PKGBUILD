@@ -11,7 +11,8 @@ _themenames=(
 'pack_2/cybernetic'
 'pack_2/glitch'
 'pack_3/lone'
-'pack_3/optimus')
+'pack_3/optimus'
+'pack_4/spin')
 
 pkgname=() #initialized by loop at the bottom
 pkgver=r28.32a0d92
